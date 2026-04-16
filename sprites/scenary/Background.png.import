@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c5ybr8k66hooy"
-path="res://.godot/imported/HornetRun.png-257816726121bc66db99eea2b0e3e857.ctex"
+uid="uid://14gjjkumy2k"
+path="res://.godot/imported/Background.png-ca68ffb8ce42055ce4f8b3248961af70.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/HornetRun.png"
-dest_files=["res://.godot/imported/HornetRun.png-257816726121bc66db99eea2b0e3e857.ctex"]
+source_file="res://sprites/scenary/Background.png"
+dest_files=["res://.godot/imported/Background.png-ca68ffb8ce42055ce4f8b3248961af70.ctex"]
 
 [params]
 

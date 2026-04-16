@@ -455,6 +455,7 @@ callback_mode_process = 0
 libraries/ = SubResource("AnimationLibrary_1jgrc")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1915852905]
+offset = Vector2(0, -100)
 process_callback = 0
 position_smoothing_enabled = true
 position_smoothing_speed = 7.0
