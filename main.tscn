@@ -20,7 +20,7 @@ polygon = PackedVector2Array(-32, 128, 32, 128, 32, -128, -32, -128)
 [node name="Main" type="Node" unique_id=422831749]
 
 [node name="Player" parent="." unique_id=1481881666 instance=ExtResource("2_0xm2m")]
-position = Vector2(596, 472)
+position = Vector2(475, 578)
 
 [node name="VFX_Rain" parent="Player" unique_id=411849381 instance=ExtResource("3_h2yge")]
 position = Vector2(-12, -408)
