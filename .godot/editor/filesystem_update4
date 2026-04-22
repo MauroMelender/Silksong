@@ -1,1 +1,7 @@
 res://main.tscn
+res://coin.gd
+res://hud.gd
+res://main.gd
+res://coin.tscn
+res://Player.tscn
+res://hud.tscn
