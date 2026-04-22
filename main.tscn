@@ -26,10 +26,10 @@ anchor_left = -0.901
 anchor_top = -0.71500003
 anchor_right = 2.14
 anchor_bottom = 1.6330001
-offset_left = -106.04797
-offset_top = -137.68
-offset_right = -0.36499023
-offset_bottom = -0.18408203
+offset_left = -1901.048
+offset_top = -1536.6799
+offset_right = 2714.5916
+offset_bottom = 482.81592
 texture = ExtResource("1_lquwl")
 
 [node name="Player" parent="." unique_id=1481881666 instance=ExtResource("2_0xm2m")]
